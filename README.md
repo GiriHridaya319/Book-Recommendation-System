@@ -1,4 +1,4 @@
-# 📚 **Book Recommendation System** 
+# 📚 **Book Recommendation System**
 
 This project is a **Book Recommendation System** that suggests books using both **Collaborative Filtering** and **Content-Based Filtering** methods. The system is implemented in Python to deliver personalized book recommendations.
 
@@ -14,3 +14,4 @@ This project is a **Book Recommendation System** that suggests books using both 
   - Combines collaborative and content-based filtering techniques to provide more accurate and diverse recommendations.
 
 ---
+
